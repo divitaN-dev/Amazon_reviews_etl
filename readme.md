@@ -29,7 +29,7 @@ A promotional program Vine is often used to incentivise customers to write produ
 ![vine-reviews-percent](https://github.com/divitaN-dev/Amazon_reviews_etl/blob/main/img/reviews-percent.png)
 
 
-###Summary
+### Summary
 
 * There doesn't seem to be a significant poistive bias when customers are incentivised to write reviews as a part of the vine program; since the comparison of 5-star reviews differs by just 4.7% for vine and non-vine reviews.
 However, further analysis for significance may be needed when the number of reviews go beyond an established threshold, since many amazon products tend to sell hundreds of thousands in quantitites.
